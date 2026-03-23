@@ -107,6 +107,3 @@ The **base CNN** is the best performer in terms of test accuracy, while **dropou
 
 This project provides a comprehensive hands‑on experience with both classical and deep learning methods for image classification.
 
-## 📄 License
-
-MIT
